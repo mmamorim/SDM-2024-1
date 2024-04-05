@@ -1,0 +1,12 @@
+{
+  "name": "sdm-2024-1",
+  "version": "1.0.0",
+  "description": "Link: [https://github.com/mmamorim/SDM-2024-1](https://github.com/mmamorim/SDM-2024-1)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
